@@ -20,6 +20,4 @@ Gem::Specification.new do |spec|
   spec.add_dependency "hashie", '~> 4.1'
   spec.add_dependency "redis", '~> 4.1', '>= 4.1.3'
   spec.add_dependency 'rest-client', '~> 2.1'
-  spec.add_development_dependency "sqlite3", ">= 1.3.6", "~> 1.3"
-  spec.add_development_dependency "rspec-rails", '~> 0'
 end

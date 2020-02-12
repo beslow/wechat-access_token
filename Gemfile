@@ -17,3 +17,7 @@ gemspec
 group :test do
   gem "rspec-rails", "~> 3.5.0"
 end
+
+group :development do
+  gem "sqlite3", ">= 1.3.6", "~> 1.3"
+end
