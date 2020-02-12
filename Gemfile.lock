@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    wechat-access_token (0.1.0)
+    wechat-access_token (0.1.1)
       hashie (~> 4.1)
       rails (~> 5.2.4, >= 5.2.4.1)
       redis (~> 4.1, >= 4.1.3)
