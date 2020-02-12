@@ -14,6 +14,9 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
+group :development do
+  gem 'sqlite3', ">= 1.3.6", "~> 1.3"
+end
 
 group :test do
   gem "rspec-rails", "~> 3.5.0"
