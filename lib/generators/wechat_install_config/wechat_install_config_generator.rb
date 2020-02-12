@@ -1,4 +1,4 @@
-class WechatInstallGenerator < Rails::Generators::Base
+class WechatInstallConfigGenerator < Rails::Generators::Base
   source_root File.expand_path("../templates", __FILE__)
 
   desc "This generator creates an wechat and redis config file at config/"

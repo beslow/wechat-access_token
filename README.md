@@ -5,7 +5,7 @@
 After Installation,
 genearte wechat.yml and redis.yml and config them 
 ```bash
-rails generate wechat_install
+rails generate wechat_install_config
 ```
 
 then you can get access_token by
