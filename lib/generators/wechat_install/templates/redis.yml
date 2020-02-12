@@ -1,0 +1,16 @@
+# encoding: UTF-8
+
+defaults: &defaults
+  host: localhost
+  password:
+  port: 6379
+  db: 88
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults

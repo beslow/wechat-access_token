@@ -1,0 +1,5 @@
+# encoding: UTF-8
+
+base:
+  appid: 123
+  appsecret: 456
