@@ -1,3 +1,4 @@
+[![Build Status](http://img.shields.io/travis/hashie/hashie.svg)](https://travis-ci.org/beslow/wechat-access_token)
 # Wechat::AccessToken
 微信公众号 access_token获取
 
